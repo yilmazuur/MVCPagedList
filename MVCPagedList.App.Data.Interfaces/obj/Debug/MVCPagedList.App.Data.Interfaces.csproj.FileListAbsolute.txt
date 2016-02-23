@@ -1,0 +1,8 @@
+C:\Users\UGUR\Desktop\Trendyol2\TrendyolCodeCase2\TrendyolCodeCase.App.Data.Interfaces\bin\Debug\MVCPagedList.App.Data.Interfaces.dll
+C:\Users\UGUR\Desktop\Trendyol2\TrendyolCodeCase2\TrendyolCodeCase.App.Data.Interfaces\bin\Debug\MVCPagedList.App.Data.Interfaces.pdb
+C:\Users\UGUR\Desktop\Trendyol2\TrendyolCodeCase2\TrendyolCodeCase.App.Data.Interfaces\obj\Debug\MVCPagedList.App.Data.Interfaces.dll
+C:\Users\UGUR\Desktop\Trendyol2\TrendyolCodeCase2\TrendyolCodeCase.App.Data.Interfaces\obj\Debug\MVCPagedList.App.Data.Interfaces.pdb
+C:\Users\UGUR\Desktop\MVCPagedList\MVCPagedList\MVCPagedList.App.Data.Interfaces\bin\Debug\MVCPagedList.App.Data.Interfaces.dll
+C:\Users\UGUR\Desktop\MVCPagedList\MVCPagedList\MVCPagedList.App.Data.Interfaces\bin\Debug\MVCPagedList.App.Data.Interfaces.pdb
+C:\Users\UGUR\Desktop\MVCPagedList\MVCPagedList\MVCPagedList.App.Data.Interfaces\obj\Debug\MVCPagedList.App.Data.Interfaces.dll
+C:\Users\UGUR\Desktop\MVCPagedList\MVCPagedList\MVCPagedList.App.Data.Interfaces\obj\Debug\MVCPagedList.App.Data.Interfaces.pdb

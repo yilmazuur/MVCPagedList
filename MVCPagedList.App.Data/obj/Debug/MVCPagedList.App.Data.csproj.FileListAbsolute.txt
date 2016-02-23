@@ -1,0 +1,13 @@
+C:\Users\UGUR\Desktop\Trendyol2\TrendyolCodeCase2\TrendyolCodeCase.App.Data\obj\Debug\MVCPagedList.App.Data.csprojResolveAssemblyReference.cache
+C:\Users\UGUR\Desktop\MVCPagedList\MVCPagedList\MVCPagedList.App.Data\bin\Debug\MVCPagedList.App.Data.dll.config
+C:\Users\UGUR\Desktop\MVCPagedList\MVCPagedList\MVCPagedList.App.Data\bin\Debug\MVCPagedList.App.Data.dll
+C:\Users\UGUR\Desktop\MVCPagedList\MVCPagedList\MVCPagedList.App.Data\bin\Debug\MVCPagedList.App.Data.pdb
+C:\Users\UGUR\Desktop\MVCPagedList\MVCPagedList\MVCPagedList.App.Data\bin\Debug\EntityFramework.dll
+C:\Users\UGUR\Desktop\MVCPagedList\MVCPagedList\MVCPagedList.App.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\UGUR\Desktop\MVCPagedList\MVCPagedList\MVCPagedList.App.Data\bin\Debug\MVCPagedList.App.Data.Interfaces.dll
+C:\Users\UGUR\Desktop\MVCPagedList\MVCPagedList\MVCPagedList.App.Data\bin\Debug\MVCPagedList.App.Data.Interfaces.pdb
+C:\Users\UGUR\Desktop\MVCPagedList\MVCPagedList\MVCPagedList.App.Data\bin\Debug\EntityFramework.xml
+C:\Users\UGUR\Desktop\MVCPagedList\MVCPagedList\MVCPagedList.App.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\UGUR\Desktop\MVCPagedList\MVCPagedList\MVCPagedList.App.Data\obj\Debug\MVCPagedList.App.Data.csprojResolveAssemblyReference.cache
+C:\Users\UGUR\Desktop\MVCPagedList\MVCPagedList\MVCPagedList.App.Data\obj\Debug\MVCPagedList.App.Data.dll
+C:\Users\UGUR\Desktop\MVCPagedList\MVCPagedList\MVCPagedList.App.Data\obj\Debug\MVCPagedList.App.Data.pdb

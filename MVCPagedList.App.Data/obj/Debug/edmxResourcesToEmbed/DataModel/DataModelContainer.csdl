@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MVCPagedListModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="MVCPagedListEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="ProductModel2" EntityType="MVCPagedListModel.ProductModel2" />
+  </EntityContainer>
+  <EntityType Name="ProductModel2">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" Nullable="false" MaxLength="200" FixedLength="false" Unicode="false" />
+    <Property Name="LastUpdatedTime" Type="DateTime" Precision="3" />
+  </EntityType>
+</Schema>

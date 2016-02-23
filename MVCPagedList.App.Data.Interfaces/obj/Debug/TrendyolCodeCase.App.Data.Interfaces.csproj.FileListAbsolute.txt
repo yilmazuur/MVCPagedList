@@ -1,0 +1,9 @@
+C:\Users\UGUR\Desktop\Trendyol\TrendyolCodeCase\TrendyolCodeCase.App.Data.Interfaces\bin\Debug\TrendyolCodeCase.App.Data.Interfaces.dll
+C:\Users\UGUR\Desktop\Trendyol\TrendyolCodeCase\TrendyolCodeCase.App.Data.Interfaces\bin\Debug\TrendyolCodeCase.App.Data.Interfaces.pdb
+C:\Users\UGUR\Desktop\Trendyol\TrendyolCodeCase\TrendyolCodeCase.App.Data.Interfaces\obj\Debug\TrendyolCodeCase.App.Data.Interfaces.dll
+C:\Users\UGUR\Desktop\Trendyol\TrendyolCodeCase\TrendyolCodeCase.App.Data.Interfaces\obj\Debug\TrendyolCodeCase.App.Data.Interfaces.pdb
+C:\Users\UGUR\Desktop\Trendyol2\TrendyolCodeCase2\TrendyolCodeCase.App.Data.Interfaces\bin\Debug\TrendyolCodeCase.App.Data.Interfaces.dll
+C:\Users\UGUR\Desktop\Trendyol2\TrendyolCodeCase2\TrendyolCodeCase.App.Data.Interfaces\bin\Debug\TrendyolCodeCase.App.Data.Interfaces.pdb
+C:\Users\UGUR\Desktop\Trendyol2\TrendyolCodeCase2\TrendyolCodeCase.App.Data.Interfaces\obj\Debug\TrendyolCodeCase.App.Data.Interfaces.dll
+C:\Users\UGUR\Desktop\Trendyol2\TrendyolCodeCase2\TrendyolCodeCase.App.Data.Interfaces\obj\Debug\TrendyolCodeCase.App.Data.Interfaces.pdb
+C:\Users\UGUR\Desktop\Trendyol2\TrendyolCodeCase2\TrendyolCodeCase.App.Data.Interfaces\obj\Debug\TrendyolCodeCase.App.Data.Interfaces.csprojResolveAssemblyReference.cache

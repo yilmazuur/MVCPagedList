@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="MVCPagedListModelStoreContainer" CdmEntityContainer="MVCPagedListEntities">
+    <EntitySetMapping Name="ProductModel2">
+      <EntityTypeMapping TypeName="MVCPagedListModel.ProductModel2">
+        <MappingFragment StoreEntitySet="ProductModel2">
+          <ScalarProperty Name="LastUpdatedTime" ColumnName="LastUpdatedTime" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
